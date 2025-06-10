@@ -1,5 +1,7 @@
 # Expense Management System
 
+![Screenshot](./Screenshot.png)
+
 A full-stack expense management application with user registration, transaction tracking, and data visualization. Built with Flutter and React for the frontend, Java Spring Boot for the backend, and PostgreSQL for the database.
 
 ## Tech Stack
@@ -29,7 +31,7 @@ A full-stack expense management application with user registration, transaction 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/expense-management.git
+git clone https://github.com/dhimant1990/expense_management.git
 cd expense-management
 ```
 
@@ -113,6 +115,3 @@ The PostgreSQL database will be automatically configured when running with Docke
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
